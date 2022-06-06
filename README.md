@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tusharmukati
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... just email me at 200030059@iitdh.ac.in
 
